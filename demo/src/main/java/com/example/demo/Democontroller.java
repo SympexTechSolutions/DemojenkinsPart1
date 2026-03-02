@@ -10,6 +10,6 @@ public class Democontroller {
 	
 	@GetMapping("/hi")
 	public String message() {
-		return "demo controller going on part1 ";
+		return "demo controller going on part1 , now im trying to use it ";
 	}
 }
